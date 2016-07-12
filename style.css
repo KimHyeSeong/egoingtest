@@ -1,9 +1,6 @@
-<html>
-	<head>
-		<link rel="stylesheet" href="style.css">
-	</head>
-	<body>
-		<h1>Hello Git</h1>
-		<p>Git is...</p>
-	</body>
-</html>
+body{
+	color:tomato;
+}
+h1{
+	border-bottom:1px solid;
+}
